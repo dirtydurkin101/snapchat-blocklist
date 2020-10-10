@@ -1,8 +1,8 @@
 (\.|^)addlive\.io$
-(\.|^)feelinsonice-hrd.appspot\.com$
-(\.|^)feelinsonice.appspot\.com$
+feelinsonice-hrd.appspot.com
+feelinsonice.appspot.com
 (\.|^)feelinsonice\.com$
-(\.|^)sc-analytics.appspot\.com$
+sc-analytics.appspot.com
 (\.|^)sc-cdn\.net$
 (\.|^)sc-corp\.net$
 (\.|^)sc-gw\.com$
